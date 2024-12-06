@@ -7,7 +7,7 @@
   Add your open source license, GitHub uses MIT license.
 -->
 
-# Introduction to Terraform Krishna
+# Introduction to Terraform
 
 _Get started using GitHub in less than an hour._
 
